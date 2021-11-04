@@ -1,0 +1,16 @@
+body{
+	background-color: grey;
+	overflow-x:hidden;
+}
+#hello{
+	color: black;
+	font-family: sans-serif;
+	position: relative;
+	left: 30vw;
+}
+#img{
+	position: relative;
+	height: 115vw;
+	width: 95vw;
+	left: 2vw;
+}
